@@ -1,13 +1,13 @@
 # 🎨 Shape-It-Up
 
-Welcome to **Shape-It-Up**, your go-to project for all things shapes! Whether you're a seasoned developer or just getting started, this is a space where creativity meets code. Dive in and have fun while adding, modifying, and experimenting with shapes!
+Welcome to **Shape-It-Up**, a project for all things shapes! Whether you're a seasoned developer or just getting started, this is a space where creativity meets code. Dive in and have fun while adding, modifying, and experimenting with shapes!
 
 ## 🚀 Getting Started
 
 To get started, simply clone this repository:
 
 ```bash
-git clone https://github.com/your_username/shape-it-up.git
+git clone https://github.com/zigwangles/shape-it-up.git
 cd shape-it-up
 ```
 
@@ -19,7 +19,7 @@ Shapes surround us everywhere, from the most complex designs to the simplest log
 
 ## 🌟 Want to Contribute?
 
-I believe in the power of community and collaboration. If you have a shape that's not included or an idea to enhance our project, we'd love to see your contributions!
+I believe in the power of community and collaboration. If you have a shape that's not included or an idea to enhance our project, I'd love to see your contributions!
 
 ### How to Contribute:
 
